@@ -166,5 +166,5 @@ export default {
       tranform: translateX(10px);
       opacity: 0;
     }
-  } 
+  }
 </style>
